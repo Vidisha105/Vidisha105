@@ -9,7 +9,7 @@ I'm Vidisha Vijay, a passionate Business Analytics student 💻.
 
 
 - :computer: Most used line of code `git commit -m "Initial Commit"`.
-- 🤔 I’m looking for an full time jobs.
+- 🤔 I’m looking for full time jobs.
 - :speech_balloon: Ask me about anything.
 - 😄 Pronouns: She/Her.
 
