@@ -10,10 +10,14 @@ I'm Vidisha Vijay, a passionate Business Analytics student 💻.
 
 - :computer: My interests are Data Science, Machine Learning, Data Analysis, Data Vizualization and Statistical Modelling.
 - 🤔 I’m looking for full time jobs.
+- :bridge_at_night: Located in San Francisco.
 - :speech_balloon: Ask me about anything.
 - 😄 Pronouns: She/Her.
+- :pencil2: Aspiring writer/blogger
+- :coffee: Buy me coffee
+- :briefcase: Any freelance work, do reach out.
 
-🤝 &nbsp; Connect with Me
+Connect with Me:
 
 [![Instagram Badge](https://img.shields.io/badge/-@pink_horcrux-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/pink_horcrux)](https://instagram.com/pink_horcrux) [![Linkedin Badge](https://img.shields.io/badge/-vidishavijay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vidisha-vijay-a35790123/)](https://www.linkedin.com/in/vidisha-vijay-a35790123/)
 [![Gmail Badge](https://img.shields.io/badge/-vidisha105.vv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vidisha105.vv@gmail.com)](mailto:vidisha105.vv@gmail.com)
