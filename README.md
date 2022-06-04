@@ -8,7 +8,7 @@ I'm Vidisha Vijay, a passionate Business Analytics student 💻.
 <!-- TODO: Add last video link -->
 
 
-- :computer: Most used line of code `git commit -m "Initial Commit"`.
+- :computer: My interests are Data Science, Machine Learning, Data Analysis, Data Vizualization and Statistical Modelling.
 - 🤔 I’m looking for full time jobs.
 - :speech_balloon: Ask me about anything.
 - 😄 Pronouns: She/Her.
@@ -16,5 +16,7 @@ I'm Vidisha Vijay, a passionate Business Analytics student 💻.
 🤝 &nbsp; Connect with Me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vidisha-vijay-a35790123/)
+[<img src="https://camo.githubusercontent.com/d57544d700455c647fa2827ce64a80ee82d2d5f34f8226caf1073a5e65383818/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d4534343035463f7374796c653d666c61742d737175617265266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" />](https://www.instagram.com/pink_horcrux/)
+
 
 <hr>
