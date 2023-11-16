@@ -9,7 +9,6 @@ I'm Vidisha Vijay, my passion lies in deciphering complex datasets and translati
 
 
 - :computer: My interests are Machine Learning, Predictive Modeling, Generative AI, Data Vizualization and Statistical Modelling.
-- 🤔 I’m looking for full time jobs.
 - :bridge_at_night: Located in San Francisco.
 - :speech_balloon: Ask me about anything.
 - 😄 Pronouns: She/Her.
