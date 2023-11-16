@@ -3,7 +3,7 @@
  <p/>
 <h1 align="center"> Hi! I'm Vidisha <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="10px" alt="hi"></h1>
 
-I'm Vidisha Vijay, a passionate Business Analytics student 💻.
+I'm Vidisha Vijay,mMy passion lies in deciphering complex datasets and translating them into actionable insights that drive informed decision-making.
 
 <!-- TODO: Add last video link -->
 
